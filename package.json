@@ -14,7 +14,7 @@
     "babel-plugin-transform-es2015-modules-commonjs": "^6.14.0",
     "babel-plugin-transform-object-rest-spread": "^6.8.0",
     "lodash": "^4.16.2",
-    "nomos-client": "file:///Users/aps/projects/nomos-client",
+    "nomos-client": "^0.0.5",
     "sanitize-html": "^1.13.0"
   },
   "babel": {
